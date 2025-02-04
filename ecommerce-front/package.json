@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "micro": "^10.0.1",
+    "mongoose": "^8.4.4",
+    "next": "14.2.4",
+    "react": "^18",
+    "react-axios": "^2.0.6",
+    "react-dom": "^18",
+    "react-helmet": "^6.1.0",
+    "stripe": "^16.1.0",
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4"
+  }
+}
